@@ -7,5 +7,6 @@ What's installed:
 - Python 3.6.8
 - virtualenv
 - Pytest 6.1.1
+- user 'rwan' with non root permissions
 
 /!\ You're connected with the root account, this can cause security issues if used as a production environment
